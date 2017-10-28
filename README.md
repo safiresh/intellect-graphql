@@ -6,7 +6,7 @@ install require dependecy with below commend
 npm install
 ```
 ##Run
-Run the 
+
 ```sh
 npm start
 ```

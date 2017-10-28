@@ -8,8 +8,8 @@
     "url": "http://github.com/safiresh/intellect-graphql.git"
   },
   "scripts": {
-    "test": "",
-    "start":"app.js"
+    "test": "mocha test",
+    "start":"node app.js"
   },
   "author": "sathish",
   "license": "ISC",
