@@ -1,0 +1,22 @@
+{
+  "name": "intellect-api",
+  "version": "1.0.0",
+  "description": "Intellect Design-Graphql api server ",
+  "main": "app.js",
+  "scripts": {
+    "test": "",
+    "start":"app.js"
+  },
+  "author": "sathish",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^0.3.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "graphql": "^0.6.2",
+    "graphql-tools": "^2.6.1",
+    "iterall": "^1.1.3",
+    "lodash": "^4.17.4",
+    "moment": "^2.19.1"
+  }
+}
