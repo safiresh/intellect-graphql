@@ -17,7 +17,7 @@ const User = `
     fName: String
     lName: String
     email: String
-    pin: Int
+    pinCode: Int
     birthDate: String
     isActive: Boolean 
     todos: [Todo]
