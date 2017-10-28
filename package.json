@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Intellect Design-Graphql api server ",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/safiresh/intellect-graphql.git"
+  },
   "scripts": {
     "test": "",
     "start":"app.js"
